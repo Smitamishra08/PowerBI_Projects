@@ -19,7 +19,7 @@ Healthcare dashboard
 - Objective: Analyze Medicare dataset to surface utilization, cost drivers, and patient demographics.
 - Key insights: Top procedures by volume and cost, age group distribution, and provider performance trends.
 - Skills demonstrated: Data cleaning, relationships, advanced DAX, KPIs, and healthcare-focused storytelling.
-- Files: Medicare Dataset.xlsx, HealthcareDashboard.pbix, HealthcareDashboardPowerBI.pdf
+- Files: HealthcareDashboard Power BI.pdf
 
 
 Superstore sales dashboard
