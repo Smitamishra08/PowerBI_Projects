@@ -32,7 +32,7 @@ Pizza sales dashboard
 - Objective: Optimize menu and operations by analyzing item mix, demand timing, and outlet contribution.
 - Key insights: Best-selling pizzas, peak times (hour/day), outlet performance, and repeat customer behavior.
 - Skills demonstrated: Time-series analysis, segmentation, DAX measures for retention and contribution, retail UX.
-- Files: 
+- Files: Pizza Sales Dashboard.pdf
 
 
 Tools, skills, and setup
