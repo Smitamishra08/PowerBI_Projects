@@ -14,6 +14,7 @@ Highlights across projects
 
 
 Project descriptions
+
 Healthcare dashboard
 - Objective: Analyze Medicare dataset to surface utilization, cost drivers, and patient demographics.
 - Key insights: Top procedures by volume and cost, age group distribution, and provider performance trends.
@@ -25,7 +26,7 @@ Superstore sales dashboard
 - Objective: Track sales, profit, and discount dynamics across regions, categories, and segments.
 - Key insights: Profitability by category/subcategory, regional performance, discount vs. margin effects.
 - Skills demonstrated: Data modeling, drill-through, interactive filters, revenue trend analysis.
-- Files: SuperStoreSalesDashboard.pdf
+- Files: Super Store Sales Dashboard.pdf
 
 
 Pizza sales dashboard
